@@ -1,0 +1,41 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Contrascere;Jared;;;
+FN:Jared Contrascere
+ORG:
+ADR;TYPE=WORK:
+TITLE:Data Scientist ⸬ Software Engineer
+TEL;TYPE=CELL:7752668727
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:7752668727
+EMAIL;TYPE=WORK:me@contracode.com
+URL;TYPE=Digital Business Card:https://contracode.me
+URL:https://contracode.com
+URL;TYPE=Signal:https://signal.me/#p/7752668727
+URL;TYPE=WhatsApp:https://wa.me/7752668727
+URL;TYPE=Telegram:https://t.me/@contracode
+URL;TYPE=Matrix:https://matrix.to/#/@contracode:matrix.org
+URL;TYPE=Website:https://contracode.com
+URL;TYPE=Location:https://www.openstreetmap.org/relation/206591
+URL;TYPE=GitHub:https://github.com/contracode
+URL;TYPE=GitLab:https://gitlab.com/contracode
+URL;TYPE=Codeberg:https://codeberg.org/contracode
+URL;TYPE=LinkedIn:https://linkedin.com/in/contracode
+URL;TYPE=Discord:https://discord.com/channels/@contracode
+URL;TYPE=Twitch:https://twitch.tv/contracode
+URL;TYPE=Mastodon:https://fosstodon.org/@contracode
+URL;TYPE=Pixelfed:https://pixelfed.social/contracode
+URL;TYPE=Twitter:https://twitter.com/contracode
+URL;TYPE=Cash App:https://cash.app/$contracode
+URL;TYPE=PayPal:https://paypal.me/contracode
+URL;TYPE=Patreon:https://patreon.com/contracode
+URL;TYPE=Buy me a coffee:https://www.buymeacoffee.com/contracode
+URL;TYPE=Spotify:https://open.spotify.com/user/26b8bpytye1ldq96inkb5f81s
+URL;TYPE=Vimeo:https://vimeo.com/contracode
+URL;TYPE=Tumblr:https://contracode.tumblr.com/
+URL;TYPE=Open-Collective:https://opencollective.com/contracode
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100890949
+END:VCARD
