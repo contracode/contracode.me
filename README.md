@@ -1,6 +1,6 @@
 # contracode.me
 
-<img alt="GitHub" src="https://img.shields.io/github/license/contracode/contracode.me"> <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/contracode/contracode.me/main"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/contracode/contracode.me">
+<img alt="GitHub" src="https://img.shields.io/github/license/contracode/contracode%2Eme?color=black"> <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/contracode/contracode.me/main"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/contracode/contracode.me">
 
 This is a digital business card developed using [EnBizCard](https://github.com/vishnuraghavb/EnBizCard) and hosted on [GitHub Pages](https://pages.github.com/).
 
